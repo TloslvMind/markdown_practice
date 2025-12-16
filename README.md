@@ -1,5 +1,14 @@
 
-# About
+# About 😸 :smile:
+
+### Commets
+<!-- Some text bla bla bla -->
+<!-- Some text bla 
+bla bla -->
+
+[comment]: # (Some text blablabla)
+[//]: # (Some text blablabla)
+
 
 Some text `docker run` Ok
 
@@ -24,7 +33,7 @@ def myfunc(name):
 
 
 |name|surname|age|sity|
-|----|-------|---|----|
+|:----|:-------:|---:|----:|
 |ivan|radko|24|Lviv|
 |evgen|onopko|43|Lutsk|
 
